@@ -391,22 +391,6 @@ END
 
 ---
 
-# Screenshots to Include
-
-Take screenshots of:
-
-1. Main Form
-2. SQL Database
-3. Add Record
-4. Update Record
-5. Delete Record
-6. Search Function
-7. DataGridView Output
-8. Visual Studio Code
-9. Running Application
-
----
-
 # Learning Outcomes
 
 This project helped develop skills in:
